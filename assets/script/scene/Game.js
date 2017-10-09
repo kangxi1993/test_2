@@ -23,7 +23,7 @@ cc.Class({
     },
 
     _onMoveTouch(event){
-        cc.log("移动");
+        //cc.log("移动");
         let worldPos = event.getLocation();
         let localPos = this.node.convertToNodeSpaceAR(worldPos);
         this.planeNode.setPosition(localPos);
