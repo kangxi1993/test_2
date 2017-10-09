@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "73c9611f-ae95-48ec-b77d-3d71c4da1a06",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "farmerPoker": {
+      "ver": "1.0.3",
+      "uuid": "e687ea75-07cc-4fa1-9f8a-a826d088e976",
+      "rawTextureUuid": "73c9611f-ae95-48ec-b77d-3d71c4da1a06",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 424,
+      "height": 149,
+      "rawWidth": 424,
+      "rawHeight": 149,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

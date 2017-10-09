@@ -1,0 +1,22 @@
+[{
+		"id" : 1,
+		"expId" : 5001,
+		"png" : "express/tea",
+		"name" : "茶",
+		"desc" : "放在牌桌旁，淡淡的茶香扑面而来\n时效2分钟，可叠加",
+		"hot" : 1,
+		"moneyType" : "-1",
+		"giveNum" : 2,
+		"moneyNum" : 30000
+	}, {
+		"id" : 2,
+		"expId" : 5002,
+		"png" : "express/coffee",
+		"name" : "咖啡",
+		"desc" : "放在牌桌旁，随时一口提神醒脑\n时效5分钟，可叠加",
+		"hot" : 1,
+		"moneyType" : "-1",
+		"giveNum" : 7,
+		"moneyNum" : 100000
+	}
+]
